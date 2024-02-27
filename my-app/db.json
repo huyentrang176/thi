@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Iphone 12",
+      "price": "650",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305695/oppo-reno10-blue-thumbnew-600x600.jpg",
+      "quantity": "10",
+      "id": 1
+    },
+    {
+      "name": "Iphone 15 Promax",
+      "price": "1350",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-black-thumbnew-600x600.jpg",
+      "quantity": "2000",
+      "id": 2
+    },
+    {
+      "name": "Samsung galaxy S2 Ultra",
+      "price": "1000",
+      "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-grey-thumb-600x600.jpg",
+      "quantity": "1000",
+      "id": 3
+    }
+  ]
+}
